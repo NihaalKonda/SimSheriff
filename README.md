@@ -1,4 +1,4 @@
-# DuneBuilders
+# Sim Sheriff
 Nihaal Konda (nak79)
 Sanya Mahajan (sm2588)
 Tanvi Mavani (tm669)
